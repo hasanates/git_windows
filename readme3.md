@@ -1,0 +1,2 @@
+#here I will send this file to the staged area and then take it back by using "git rm --cached readme2.md" and then I will try to do it by using vscode Source Control Panel
+# I have tried both and worked well. As result I can say both works doing it by using terminal is way better
