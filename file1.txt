@@ -1,2 +1,4 @@
 #I am trying to understand untill where I can use "git restore <file name>"  
 #I add here just now 
+# I am adding after the commit 
+# I am adding after the commit 2
