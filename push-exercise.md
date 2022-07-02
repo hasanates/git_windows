@@ -2,4 +2,4 @@
 #1- "git add ."
 #2- "git commit -m"
 #3- "git push -u "short repo name", we can choose the brach here if dont choose one then it will push all of them to the branch that we are recently working on 
-#4- now I will do some wrong changes and suppose that I havent seen it and added, how can I remove that?
+#4- now I will do some wrong changes and suppose that I havent seen it and added, how can I remo    
