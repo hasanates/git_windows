@@ -1,1 +1,1 @@
-#sadece bu dosyayi atacam
+#I am trying to understand untill where I can use "git restore <file name>" 
