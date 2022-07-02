@@ -1,0 +1,2 @@
+# her ei will make some undo before using " git add . "
+# it works by using "git checkout -- <name of the file>
